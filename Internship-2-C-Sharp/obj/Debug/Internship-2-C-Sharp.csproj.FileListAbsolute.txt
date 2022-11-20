@@ -1,0 +1,8 @@
+C:\Users\simun\dumpRepo\Internship-2-C-Sharp\Internship-2-C-Sharp\bin\Debug\Internship-2-C-Sharp.exe.config
+C:\Users\simun\dumpRepo\Internship-2-C-Sharp\Internship-2-C-Sharp\bin\Debug\Internship-2-C-Sharp.exe
+C:\Users\simun\dumpRepo\Internship-2-C-Sharp\Internship-2-C-Sharp\bin\Debug\Internship-2-C-Sharp.pdb
+C:\Users\simun\dumpRepo\Internship-2-C-Sharp\Internship-2-C-Sharp\obj\Debug\Internship-2-C-Sharp.csproj.AssemblyReference.cache
+C:\Users\simun\dumpRepo\Internship-2-C-Sharp\Internship-2-C-Sharp\obj\Debug\Internship-2-C-Sharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\simun\dumpRepo\Internship-2-C-Sharp\Internship-2-C-Sharp\obj\Debug\Internship-2-C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\simun\dumpRepo\Internship-2-C-Sharp\Internship-2-C-Sharp\obj\Debug\Internship-2-C-Sharp.exe
+C:\Users\simun\dumpRepo\Internship-2-C-Sharp\Internship-2-C-Sharp\obj\Debug\Internship-2-C-Sharp.pdb
